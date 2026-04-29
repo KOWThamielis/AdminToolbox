@@ -1,0 +1,17 @@
+name: AdminToolbox
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/e5b3ce0d-07b6-46fe-9899-28ee0a3fa089
+description: Repository for the AdminToolbox PowerShell Modules
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/KOWThamielis/AdminToolbox
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
